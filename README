@@ -9,6 +9,10 @@ Use in OSCam: Create a camd35 reader with caid/ident defined accordingly to what
 
 Credits go to "Admin" for this…
 
+git clone git://github.com/oscam-emu/OSEmu
+
+or in case of using svn
+
 svn checkout https://github.com/oscam-emu/OSEmu/trunk OSEmu
 
 You use the program with the following options:
